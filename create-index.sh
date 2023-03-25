@@ -1,1 +1,1 @@
-helm repo index --url https://gnunn-gitops.github.io/helm-charts/ .
+helm repo index --url https://ultrajeff.github.io/helm-charts/ .
